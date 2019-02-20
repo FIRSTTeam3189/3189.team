@@ -58,7 +58,7 @@ a.banner {
 }
 
 .banner h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Exo 2', sans-serif;
 	font-weight: 400;
 	font-size: 21px;
 	font-style: italic;
@@ -102,7 +102,7 @@ li a, .dropbtn {
 	padding-right: 10px;
 	padding-left: 10px;
     text-decoration: none;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 400px;
 	font-size: 18px;
 	line-height: 26px;
@@ -135,7 +135,7 @@ li a:hover, .dropdown:hover .dropbtn {
     text-decoration: none;
     display: block;
 	text-decoration: none;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 400px;
 	font-size: 15px;
 }
@@ -173,7 +173,7 @@ li a:hover, .dropdown:hover .dropbtn {
 /* -------- Main Text Styling -------- */
 
 .full-width h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 300;
 	font-size: 22px;
 	color: #fff;
@@ -182,7 +182,7 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 .full-width h3 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 300;
 	font-size: 19px;
 	color: #fff;
@@ -192,7 +192,7 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 .full-width h5 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 300;
 	font-size: 18px;
 	color: #fff;
@@ -201,7 +201,7 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 .full-width p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Exo 2', sans-serif;
 	font-weight: 300;
 	font-size: 14.9px;
 	color: #fff;
@@ -212,7 +212,7 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 .full-width p#bold {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Exo 2', sans-serif;
 	font-weight: 400;
 	font-size: 14.9px;
 	color: #fff;
@@ -243,7 +243,7 @@ hr.plain{
 }
 
 .footer h3 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 300;
 	font-size: 12px;
 #	font-style: italic;
@@ -254,7 +254,7 @@ hr.plain{
 }
 
 .footer h4 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gugi', cursive;
 	font-weight: 300;
 	font-size: 12px;
 #	font-style: italic;
