@@ -54,8 +54,38 @@ body {
 	text-decoration: none;
 }
 
-a.banner {
-	text-decoration: none;
+.button {
+	border-radius:15px;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+#button1:hover {
+	background-color: #2C7D23;
+	color: #fff;
+}
+
+#button2:hover {
+	background-color: #2C7D23;
+	color: #fff;
+}
+
+#button3:hover {
+	background-color: #2C7D23;
+	color: #fff;
+}
+
+#button4:hover {
+	background-color: #2C7D23;
+	color: #fff;
+}
+#button5:hover {
+	background-color: #2C7D23;
+	color: #fff;
+}
+#button6:hover {
+	background-color: #2C7D23;
+	color: #fff;
 }
 
 .banner h2 {
