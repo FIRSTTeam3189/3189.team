@@ -54,71 +54,6 @@ body {
 	text-decoration: none;
 }
 
-.nav-button {
-	text-decoration: none;
-	border-radius:15px;
-	-webkit-transition-duration: 0.4s;
-    transition-duration: 0.2s;
-    cursor: pointer;
-}
-#team-button:hover {
-	background-color: #2C7D23;
-	
-}
-
-#first-button:hover {
-	background-color: #2C7D23;
-	
-}
-
-#faq-button:hover {
-	background-color: #2C7D23;
-	
-}
-
-#business-button:hover {
-	background-color: #2C7D23;
-	
-}
-#cad-button:hover {
-	background-color: #2C7D23;
-	
-}
-#electrical-button:hover {
-	background-color: #2C7D23;
-	
-}
-
-#mechanical-button:hover {
-	background-color: #2C7D23;
-	
-}
-#media-button:hover {
-	background-color: #2C7D23;
-	
-}
-#programming-button:hover {
-	background-color: #2C7D23;
-	
-}
-#gallery-button:hover {
-	background-color: #2C7D23;
-	
-}
-
-#support-us-button:hover {
-	background-color: #2C7D23;
-	
-}
-#contact-button:hover {
-	background-color: #2C7D23;
-	
-}
-#resources-button:hover {
-	background-color: #2C7D23;
-	
-}
-
 .banner h2 {
 	font-family: 'Gugi', cursive;
 	font-weight: 400;
@@ -218,6 +153,71 @@ li a:hover, .dropdown:hover .dropbtn {
 
 #gallery {
 	min-width: 107px;
+}
+
+.nav-button {
+	text-decoration: none;
+	border-radius:15px;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+#team-button:hover {
+	background-color: #2C7D23;
+	
+}
+
+#first-button:hover {
+	background-color: #2C7D23;
+	
+}
+
+#faq-button:hover {
+	background-color: #2C7D23;
+	
+}
+
+#business-button:hover {
+	background-color: #2C7D23;
+	
+}
+#cad-button:hover {
+	background-color: #2C7D23;
+	
+}
+#electrical-button:hover {
+	background-color: #2C7D23;
+	
+}
+
+#mechanical-button:hover {
+	background-color: #2C7D23;
+	
+}
+#media-button:hover {
+	background-color: #2C7D23;
+	
+}
+#programming-button:hover {
+	background-color: #2C7D23;
+	
+}
+#gallery-button:hover {
+	background-color: #2C7D23;
+	
+}
+
+#support-us-button:hover {
+	background-color: #2C7D23;
+	
+}
+#contact-button:hover {
+	background-color: #2C7D23;
+	
+}
+#resources-button:hover {
+	background-color: #2C7D23;
+	
 }
 
 /* -------- Full-Width Container -------- */
