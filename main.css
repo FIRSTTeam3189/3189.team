@@ -54,38 +54,68 @@ body {
 	text-decoration: none;
 }
 
-.button {
+.nav-button {
 	border-radius:15px;
 	-webkit-transition-duration: 0.4s;
     transition-duration: 0.2s;
     cursor: pointer;
 }
-#button1:hover {
+#team:hover {
 	background-color: #2C7D23;
-	color: #fff;
+	
 }
 
-#button2:hover {
+#first:hover {
 	background-color: #2C7D23;
-	color: #fff;
+	
 }
 
-#button3:hover {
+#faq:hover {
 	background-color: #2C7D23;
-	color: #fff;
+	
 }
 
-#button4:hover {
+#business:hover {
 	background-color: #2C7D23;
-	color: #fff;
+	
 }
-#button5:hover {
+#cad:hover {
 	background-color: #2C7D23;
-	color: #fff;
+	
 }
-#button6:hover {
+#electrical:hover {
 	background-color: #2C7D23;
-	color: #fff;
+	
+}
+
+#mechanical:hover {
+	background-color: #2C7D23;
+	
+}
+#media:hover {
+	background-color: #2C7D23;
+	
+}
+#programming:hover {
+	background-color: #2C7D23;
+	
+}
+#gallery:hover {
+	background-color: #2C7D23;
+	
+}
+
+#support-us:hover {
+	background-color: #2C7D23;
+	
+}
+#contact:hover {
+	background-color: #2C7D23;
+	
+}
+#resources:hover {
+	background-color: #2C7D23;
+	
 }
 
 .banner h2 {
