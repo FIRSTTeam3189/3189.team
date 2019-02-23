@@ -55,65 +55,66 @@ body {
 }
 
 .nav-button {
+	text-decoration: none;
 	border-radius:15px;
 	-webkit-transition-duration: 0.4s;
     transition-duration: 0.2s;
     cursor: pointer;
 }
-#team:hover {
+#team-button:hover {
 	background-color: #2C7D23;
 	
 }
 
-#first:hover {
+#first-button:hover {
 	background-color: #2C7D23;
 	
 }
 
-#faq:hover {
+#faq-button:hover {
 	background-color: #2C7D23;
 	
 }
 
-#business:hover {
+#business-button:hover {
 	background-color: #2C7D23;
 	
 }
-#cad:hover {
+#cad-button:hover {
 	background-color: #2C7D23;
 	
 }
-#electrical:hover {
-	background-color: #2C7D23;
-	
-}
-
-#mechanical:hover {
-	background-color: #2C7D23;
-	
-}
-#media:hover {
-	background-color: #2C7D23;
-	
-}
-#programming:hover {
-	background-color: #2C7D23;
-	
-}
-#gallery:hover {
+#electrical-button:hover {
 	background-color: #2C7D23;
 	
 }
 
-#support-us:hover {
+#mechanical-button:hover {
 	background-color: #2C7D23;
 	
 }
-#contact:hover {
+#media-button:hover {
 	background-color: #2C7D23;
 	
 }
-#resources:hover {
+#programming-button:hover {
+	background-color: #2C7D23;
+	
+}
+#gallery-button:hover {
+	background-color: #2C7D23;
+	
+}
+
+#support-us-button:hover {
+	background-color: #2C7D23;
+	
+}
+#contact-button:hover {
+	background-color: #2C7D23;
+	
+}
+#resources-button:hover {
 	background-color: #2C7D23;
 	
 }
