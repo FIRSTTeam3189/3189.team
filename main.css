@@ -54,6 +54,10 @@ body {
 	text-decoration: none;
 }
 
+.banner h1 a {
+	text-decoration: none;
+}
+
 .banner h2 {
 	font-family: 'Gugi', cursive;
 	font-weight: 400;
@@ -74,6 +78,9 @@ body {
 	color: #fff;
 }
 
+.banner h2 {
+	text-decoration: none;
+}
 /* ---------- Navigation Bar ---------- */
 
 ul {
